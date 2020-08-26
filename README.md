@@ -14,5 +14,7 @@ I'm Matheus, full-stack developer currently working as a full time C# junior dev
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=flat-square&logo=node-dot-js&logoColor=white" />
 
-[![Matheus github stats](https://github-readme-stats.vercel.app/api?username=PanzerBerg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanzerBerg&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#
+
+[![Matheus github stats](https://github-readme-stats-r4815ov66.vercel.app/api?username=PanzerBerg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-r4815ov66.vercel.app/api/top-langs/?username=PanzerBerg&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
