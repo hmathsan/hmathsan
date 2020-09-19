@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Matheus, full-stack developer currently working as a full time C# junior developer.
+I'm Matheus, full-stack developer currently working as a full time Java junior developer.
 
 - 🌱 I’m currently studying Computer Engineering
 - 👨‍💻 Working in some personal projects with NodeJs, React and React-Native on my spare time
+- 👨‍💻 Also trying to learn Rust
 
 🚀 Some of my skills are 
 <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
