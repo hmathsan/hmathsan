@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Matheus
 
-### I'm a full-stack developer currently working as a full time Java junior developer in Brazil 💻 .
+### I'm a Back-end developer currently working as a full time Java/Kotlin junior developer in Brazil 💻 .
 
 - 🌱 I’m currently studying Computer Engineering
-- 👨‍💻 Working in some personal projects with NodeJs, React and React-Native on my spare time
-- 👨‍💻 Also trying to learn Rust
+- 👨‍💻 Currently trying to learn Rust
+- 👨‍💻 Working with Micronaut and Kotlin, learning a lot about microservices
 
 #
 
