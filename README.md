@@ -3,8 +3,8 @@
 ### I'm a Back-end developer currently working as a full time Java/Kotlin junior developer in Brazil 💻 .
 
 - 🌱 I’m currently studying Computer Engineering
-- 👨‍💻 Currently trying to learn Rust
 - 👨‍💻 Working with Micronaut and Kotlin, learning a lot about microservices
+- 🎮 Trying to develop a game using Godot and C#
 
 #
 
