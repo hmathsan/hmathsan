@@ -19,5 +19,5 @@
 
 #
 
-[![Matheus github stats](https://github-readme-stats-r4815ov66.vercel.app/api?username=hmathsan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-r4815ov66.vercel.app/api/top-langs/?username=hmathsan&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Matheus github stats](https://github-readme-stats-r6ym8d0mf-panzerberg.vercel.app/api?username=hmathsan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-r6ym8d0mf-panzerberg.vercel.app/api/top-langs/?username=hmathsan&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
