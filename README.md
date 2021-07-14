@@ -9,13 +9,14 @@
 #
 
 🚀 Some of my skills are 
-<img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=flat-square&logo=node-dot-js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=ts-node&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=spring%20boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 
 #
 
