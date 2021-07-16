@@ -1,16 +1,15 @@
 ## Hi there 👋 I'm Matheus
 
-### I'm a Back-end developer currently working as a full time Java/Kotlin junior developer in Brazil 💻 .
+### I'm a Back-end developer currently working as a full time Java/Kotlin junior developer in Brazil 💻.
 
 - 🌱 I’m currently studying Computer Engineering
 - 👨‍💻 Working with Micronaut and Kotlin, learning a lot about microservices
-- 🎮 Trying to develop a game using Godot and C#
+- ☁️ Studying Cloud and AWS
+- 💡 Learning Rust on my spare time
 
-#
+### 🚀 Some of my skills are
 
-🚀 Some of my skills are 
-<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=ts-node&logoColor=white" />
