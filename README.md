@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Matheus
 
-### I'm a Back-end developer currently working as a full time Java/Kotlin developer in Brazil 💻.
+### I'm a Back-end developer currently working as a full time Java developer for IBM - Brazil 💻.
 
 - 🌱 I’m currently studying Computer Engineering
 - 👨‍💻 Working with Micronaut and Kotlin, learning a lot about microservices
