@@ -3,9 +3,9 @@
 ### I'm a Back-end developer currently working as a full time Java developer for IBM - Brazil 💻.
 
 - 🌱 I’m currently studying Computer Engineering
-- 👨‍💻 Working with Micronaut and Kotlin, learning a lot about microservices
+- 👨‍💻 Working with Quarkus using really amazing technologies like GRPC and Kafka Streams
 - ☁️ Studying Cloud and AWS
-- 💡 Learning Rust on my spare time
+- 💡 Learning and having fun with other languages like Rust and Go on my spare time
 
 ### 🚀 Some of my skills are
 
