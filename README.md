@@ -35,8 +35,10 @@ I'm Matheus, a 24 years old Senior Java developer from Brazil.
 
 #
 
+<!--
 <div align="center">
     <a href="https://github.com/hmathsan">
     <img height="180em" src="https://github-readme-stats-r6ym8d0mf-panzerberg.vercel.app/api?username=hmathsan&theme=onedark&show_icons=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-r6ym8d0mf-panzerberg.vercel.app/api/top-langs/?username=hmathsan&theme=onedark&hide=html,lua&layout=compact&count_private=true&show_icons=true"/>
 </div>
+-->
