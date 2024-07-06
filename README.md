@@ -2,7 +2,7 @@
 
 ## Hi there 👋 
 
-I'm Matheus, a 24 years old Senior Java developer from Brazil.
+I'm Matheus, a 24 years old Senior Java and AWS Certified developer from Brazil.
 
 #
 
@@ -17,7 +17,6 @@ I'm Matheus, a 24 years old Senior Java developer from Brazil.
 - 🧑‍💻 currently working at [IBM - Brazil](https://www.ibm.com/br-pt)
 - 🌱 I’m currently studying Computer Engineering
 - 🖥️ Working with Quarkus using really amazing technologies like GRPC and Kafka Streams
-- ☁️ Studying Cloud and AWS
 - 💡 Learning and having fun with other languages like Rust and Go on my spare time
 
 ### 🚀 Some of my main skills are
@@ -32,6 +31,11 @@ I'm Matheus, a 24 years old Senior Java developer from Brazil.
     <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?&style=for-the-badge&logo=spring%20boot&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-%23232F3E?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 </div>
+
+#
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 #
 
