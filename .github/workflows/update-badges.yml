@@ -13,3 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: matheus-santos.ea7c88b2
+          CREDLY_SORT: POPULAR
