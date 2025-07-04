@@ -2,7 +2,7 @@
 
 ## Hi there 👋 
 
-I'm Matheus, a 24 years old Senior Java and AWS Certified developer from Brazil.
+I'm Matheus, a 26 years old Senior Java/Kotlin and AWS Certified developer from Brazil.
 
 #
 
@@ -14,10 +14,11 @@ I'm Matheus, a 24 years old Senior Java and AWS Certified developer from Brazil.
 
 #
 
-- 🧑‍💻 currently working at [IBM - Brazil](https://www.ibm.com/br-pt)
+- 🧑‍💻 currently working at [Grupo Boticário](https://www.grupoboticario.com.br/)
 - 🌱 I’m currently studying Computer Engineering
-- 🖥️ Working with Quarkus using really amazing technologies like GRPC and Kafka Streams
-- 💡 Learning and having fun with other languages like Rust and Go on my spare time
+- 🖥️ Previously worked with Quarkus using technologies like GRPC and Kafka Streams
+- 🖥️ Currently working with Spring, Kotlin, SQS and other AWS technologies
+- 💡 Learning and having fun with other languages like Rust and Go in my spare time
 
 ### 🚀 Some of my main skills are
 
@@ -39,7 +40,6 @@ I'm Matheus, a 24 years old Senior Java and AWS Certified developer from Brazil.
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/2a3b8124-a09f-47d4-95c3-aa5095cd3862 "AWS Certified Developer – Associate")
 [![IBM Garage Essentials](https://images.credly.com/size/110x110/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/9fadcff2-54e4-494e-a3b7-7481b02b1231 "IBM Garage Essentials")
 [![IBM Garage Foundation](https://images.credly.com/size/110x110/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png)](http://www.credly.com/badges/a1d784c0-ea11-447a-82de-26b23a2f758f "IBM Garage Foundation")
-[![Security and Privacy by Design Foundations](https://images.credly.com/size/110x110/images/c1ca6570-bdc6-40e9-8992-722050788418/Security-_-Privacy-by-Design-Foundational.png)](http://www.credly.com/badges/9d319385-66cb-4674-a819-5d86fdfa7845 "Security and Privacy by Design Foundations")
 [![Banking Industry Jumpstart](https://images.credly.com/size/110x110/images/cb5180ef-bdd3-4c15-a632-b2d8388c221d/Banking-Industry-Jumpstart.png)](http://www.credly.com/badges/a1f3647e-5012-453a-99fa-3ec42d3e6fdc "Banking Industry Jumpstart")
 <!--END_SECTION:badges-->
 
