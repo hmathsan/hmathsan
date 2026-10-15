@@ -36,11 +36,17 @@ I'm Matheus, a 26 years old Senior Java/Kotlin and AWS Certified developer from 
 #
 
 <!--START_SECTION:badges-->
-[![Enterprise Design Thinking Practitioner](https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/3f3004de-438d-418c-a2cc-0e61c2b462bd "Enterprise Design Thinking Practitioner")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/2a3b8124-a09f-47d4-95c3-aa5095cd3862 "AWS Certified Developer – Associate")
-[![IBM Garage Essentials](https://images.credly.com/size/110x110/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/9fadcff2-54e4-494e-a3b7-7481b02b1231 "IBM Garage Essentials")
-[![IBM Garage Foundation](https://images.credly.com/size/110x110/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png)](http://www.credly.com/badges/a1d784c0-ea11-447a-82de-26b23a2f758f "IBM Garage Foundation")
-[![Banking Industry Jumpstart](https://images.credly.com/size/110x110/images/cb5180ef-bdd3-4c15-a632-b2d8388c221d/Banking-Industry-Jumpstart.png)](http://www.credly.com/badges/a1f3647e-5012-453a-99fa-3ec42d3e6fdc "Banking Industry Jumpstart")
+<p align="center">
+  <a href="http://www.credly.com/badges/3f3004de-438d-418c-a2cc-0e61c2b462bd" title="Enterprise Design Thinking Practitioner">
+    <img src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" width="110" height="110" alt="Enterprise Design Thinking Practitioner" />
+  </a>
+  <a href="http://www.credly.com/badges/2a3b8124-a09f-47d4-95c3-aa5095cd3862" title="AWS Certified Developer – Associate">
+    <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" height="110" alt="AWS Certified Developer – Associate" />
+  </a>
+  <a href="http://www.credly.com/badges/a1f3647e-5012-453a-99fa-3ec42d3e6fdc" title="Banking Industry Jumpstart">
+    <img src="https://images.credly.com/size/110x110/images/cb5180ef-bdd3-4c15-a632-b2d8388c221d/Banking-Industry-Jumpstart.png" width="110" height="110" alt="Banking Industry Jumpstart" />
+  </a>
+</p>
 <!--END_SECTION:badges-->
 
 #
