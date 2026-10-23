@@ -7,7 +7,7 @@ I'm Matheus, a 26 years old Senior Java/Kotlin and AWS Certified developer from 
 #
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/matheus-s-934001104/">
+    <a href="https://www.linkedin.com/in/matheussantos-backend/">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a/>
 </div>
